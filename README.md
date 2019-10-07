@@ -1,3 +1,4 @@
 # test3
 
-THIS IS THE NEW README FILE XXXXXX
+Edited Github file..Now, its all up to you bro..
+
